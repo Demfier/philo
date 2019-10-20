@@ -1,0 +1,6 @@
+data/*
+embeddings/*
+saved_models/*
+runs/*
+reports/*
+*__pycache__/*

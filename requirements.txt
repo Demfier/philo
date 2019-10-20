@@ -1,0 +1,9 @@
+# local package
+-e .
+
+# external requirements
+h5py
+numpy
+torch
+nltk
+gensim
