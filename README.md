@@ -10,7 +10,7 @@ Philo's *src* of power is PyTorch.
 
 Leave a :star: if you find the code useful :smiley: -->
 
-Repository for Adaptive Fusion Techniques for Multimodal Data (Python package to be released soon)
+Repository for Adaptive Fusion Techniques for Multimodal Data.
 
 ## Usage instructions:
 
